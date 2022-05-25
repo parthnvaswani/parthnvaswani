@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/parthnvaswani" target="blank"><img src="https://img.shields.io/twitter/follow/parthnvaswani?logo=twitter&style=for-the-badge" alt="parthnvaswani" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://parthnvaswani.tech](https://parthnvaswani.tech)
+- 👨‍💻 All of my projects are available at [https://www.parthnvaswani.tech](https://www.parthnvaswani.tech)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **parthnvaswani@gmail.com**
 
-- 📄 Know about my experiences [here](https://parthnvaswani.tech/Docs/Parth_Resume.pdf)!
+- 📄 Know about my experiences [here](https://www.parthnvaswani.tech/Docs/Parth_Resume.pdf)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
