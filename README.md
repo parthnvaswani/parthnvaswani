@@ -9,8 +9,8 @@ I am a web designer & full-stack developer from India. I've worked with most of 
 * 🌍  I'm based in Gujarat, India
 * 🖥️  See my portfolio at [https://parthnvaswani.tech](http://parthnvaswani.tech)
 * ✉️  You can contact me at [parthnvaswani@gmail.com](mailto:parthnvaswani@gmail.com)
-* 🧠  I'm learning SvelteKit
-* ⚡  I like to binge watch content related to programming and coding interviews 😅
+* 🧠  I'm learning WordPress
+* ⚡  I like to binge watch anime and read manga 😅
 
 ### Skills
 
