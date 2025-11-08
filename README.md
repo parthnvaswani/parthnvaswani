@@ -1,6 +1,5 @@
 # 💫 About Me:
 * 🌍  I'm based in Gujarat, India
-* 🖥️  See my portfolio at [https://parthnvaswani.tech](http://parthnvaswani.tech)
 * ✉️  You can contact me at [parthnvaswani@gmail.com](mailto:parthnvaswani@gmail.com)
 * 🧠  I'm learning WordPress
 * ⚡  I like to binge watch anime and read manga 😅
