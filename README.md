@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Parth Vaswani
 
-**Senior Software Engineer @ [rtCamp](https://github.com/rtCamp)**
+**WordPress & React Developer at TeamUpdraft**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthnvaswani)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/parthnvaswani)
@@ -16,7 +16,7 @@
 
 ```javascript
 const parth = {
-    title: "Senior Software Engineer @ rtCamp",
+    title: "WordPress & React Developer at TeamUpdraft",
     location: "Gujarat, India 🇮🇳",
     code: ["JavaScript", "TypeScript", "PHP", "Node.js"],
     currentFocus: "WordPress Development & Full Stack Engineering",
